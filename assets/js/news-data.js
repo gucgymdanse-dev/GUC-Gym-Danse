@@ -22,7 +22,7 @@ const NEWS = [
   type: "Stage",
   title: "Stage de gymnastique rythmique",
   summary: "Deux journées pour progresser en technique corporelle, manipulation d’engins et chorégraphie.",
-  image: "assets/images/stage/StageOctobre 26.jpg",
+  image: "assets/images/Stage/StageOctobre 26.jpg",
   link: "inscription.html",
   linkLabel: "En savoir plus",
   featured: true,
