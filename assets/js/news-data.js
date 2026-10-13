@@ -1,0 +1,46 @@
+/*
+ACTUALITÉS DU CLUB — FICHIER À MODIFIER
+
+Pour ajouter une actualité :
+1. Copiez un bloc { ... },
+2. Collez-le dans NEWS,
+3. Modifiez les valeurs,
+4. Committez le fichier sur GitHub.
+
+- date : AAAA-MM-JJ
+- endDate : facultatif
+- type : Stage, Événement, Compétition, Vie du club...
+- image : chemin local ou URL ; "" si aucune image
+- link : lien facultatif ; "" si aucun
+- featured : true = mise en avant en grand
+- status : texte court facultatif
+*/
+const NEWS = [
+  /*
+  {
+    date: "2026-11-14",
+    endDate: "2026-11-15",
+    type: "Stage",
+    title: "Stage de gymnastique rythmique",
+    summary: "Deux journées pour progresser en technique corporelle, manipulation d’engins et chorégraphie.",
+    image: "assets/images/stage-gr.jpg",
+    link: "inscription.html",
+    linkLabel: "En savoir plus",
+    featured: true,
+    status: "Inscriptions ouvertes"
+  },
+  */
+  /*
+  {
+    date: "2026-12-05",
+    type: "Événement",
+    title: "Démonstration de fin d’année",
+    summary: "Un temps convivial pour découvrir le travail des groupes et partager un moment avec les familles.",
+    image: "",
+    link: "",
+    linkLabel: "",
+    featured: false,
+    status: "À venir"
+  }
+  */
+];

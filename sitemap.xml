@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.guc-gym-danse.fr/</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/activites.html</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/cours-tarifs.html</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/club.html</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/faq.html</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/inscription.html</loc>
-  </url>
-  <url>
-    <loc>https://www.guc-gym-danse.fr/mentions-legales.html</loc>
-  </url>
+  <url><loc>https://www.guc-gym-danse.fr/</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/activites.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/cours-tarifs.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/club.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/news.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/faq.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/inscription.html</loc></url>
+  <url><loc>https://www.guc-gym-danse.fr/mentions-legales.html</loc></url>
 </urlset>
