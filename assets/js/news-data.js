@@ -16,29 +16,18 @@ Pour ajouter une actualité :
 - status : texte court facultatif
 */
 const NEWS = [
-{
-  date: "2026-10-21",
-  endDate: "2026-10-23",
-  type: "Stage",
-  title: "Stage de gymnastique rythmique",
-  summary: "Deux journées pour progresser en technique corporelle, manipulation d’engins et chorégraphie.",
-  image: "assets/images/Stage/StageOctobre_26.jpg",
-  link: "inscription.html",
-  linkLabel: "En savoir plus",
-  featured: true,
-  status: "Inscriptions ouvertes"
-},
-  /*
+
   {
-    date: "2026-12-05",
-    type: "Événement",
-    title: "Démonstration de fin d’année",
-    summary: "Un temps convivial pour découvrir le travail des groupes et partager un moment avec les familles.",
-    image: "",
-    link: "",
-    linkLabel: "",
-    featured: false,
-    status: "À venir"
+    date: "2026-10-21",
+    endDate: "2026-10-23",
+    type: "Stage",
+    title: "Stage de gymnastique rythmique",
+    summary: "Deux journées pour progresser en technique corporelle, manipulation d’engins et chorégraphie.",
+    image: "/assets/images/Stage/StageOctobre_26.jpg",
+    link: "inscription.html",
+    linkLabel: "En savoir plus",
+    featured: true,
+    status: "Inscriptions ouvertes"
   }
-  */
+
 ];
