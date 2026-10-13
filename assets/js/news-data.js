@@ -25,7 +25,7 @@ const NEWS = [
     summary: "Deux journées pour progresser en technique corporelle, manipulation d’engins et chorégraphie. ATTENTION, inscription obligatoire - Date limite 18 octobre par sms ou guc.gym.danse@gmail.com",
     image: "/assets/images/Stage/StageOctobre_26.jpg",
     link: "inscription.html",
-    linkLabel: "En savoir plus",
+    linkLabel: "Contactez nous pour en savoir plus",
     featured: true,
     status: "Inscriptions ouvertes"
   }
